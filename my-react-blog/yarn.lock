@@ -2040,18 +2040,18 @@ brace-expansion@^1.1.7:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
 
-braces@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/braces/-/braces-2.3.1.tgz#ba77962e12dff969d6b76711e914b737857bf6a7"
+braces@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/braces/-/braces-3.0.3.tgz#ba77962e12dff969d6b76711e914b737857bf6a7"
   integrity sha512-xU7bpz2ytJl1bH9cgIurjpg/n8Gohy9GTw81heDYLJQ4RU60dlyJsa+atVF2pI0yMMvKxI9HkKwjePCj5XI1hw==
   dependencies:
     expand-range "^1.8.1"
     preserve "^0.2.0"
     repeat-element "^1.1.2"
 
-braces@^2.3.1, braces@^2.3.2:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/braces/-/braces-2.3.2.tgz#5979fd3f14cd531565e5fa2df1abfff1dfaee729"
+braces@^3.0.3, braces@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/braces/-/braces-3.0.3.tgz#5979fd3f14cd531565e5fa2df1abfff1dfaee729"
   integrity sha512-aNdbnj9P8PjdXU4ybaWLK2IF3jc/EoDYbC7AazW6to3TRsfXxscC9UXOB5iDiEQrkyIbWp2SLQda4+QAa7nc3w==
   dependencies:
     arr-flatten "^1.1.0"
@@ -2385,7 +2385,7 @@ chokidar@^2.0.0, chokidar@^2.0.2:
   dependencies:
     anymatch "^2.0.0"
     async-each "^1.0.1"
-    braces "^2.3.2"
+    braces "^3.0.3"
     glob-parent "^3.1.0"
     inherits "^2.0.3"
     is-binary-path "^1.0.0"
@@ -2404,7 +2404,7 @@ chokidar@^2.0.4:
   dependencies:
     anymatch "^2.0.0"
     async-each "^1.0.1"
-    braces "^2.3.2"
+    braces "^3.0.3"
     glob-parent "^3.1.0"
     inherits "^2.0.3"
     is-binary-path "^1.0.0"
@@ -6306,7 +6306,7 @@ micromatch@^2.3.11:
   dependencies:
     arr-diff "^2.0.0"
     array-unique "^0.2.1"
-    braces "^1.8.2"
+    braces "^3.0.3"
     expand-brackets "^0.1.4"
     extglob "^0.3.1"
     filename-regex "^2.0.0"
@@ -6325,7 +6325,7 @@ micromatch@^3.1.10, micromatch@^3.1.4, micromatch@^3.1.8, micromatch@^3.1.9:
   dependencies:
     arr-diff "^4.0.0"
     array-unique "^0.3.2"
-    braces "^2.3.1"
+    braces "^3.0.3"
     define-property "^2.0.2"
     extend-shallow "^3.0.2"
     extglob "^2.0.4"
